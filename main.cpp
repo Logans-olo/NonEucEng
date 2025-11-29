@@ -1,5 +1,5 @@
 #include <cstdio>
-
+#include "include/Math.h"
 int main() {
-    return 0;
+    Vec3 * vector = new Vec3();
 }
